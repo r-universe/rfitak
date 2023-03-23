@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CircMLE"]
+	path = CircMLE
+	url = https://github.com/cran/CircMLE
+	shallow = true
+	registered = true
+[submodule "OptM"]
+	path = OptM
+	url = https://github.com/cran/OptM
+	shallow = true
+	registered = true
